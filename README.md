@@ -1,4 +1,4 @@
 samp-public
 ===========
 
-samp-public
+Public issue tracker for SARP.
